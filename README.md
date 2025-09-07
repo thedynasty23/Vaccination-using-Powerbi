@@ -29,10 +29,8 @@ To analyze vaccination coverage by dose schedules, regional disparities, and boo
 
 **Interactivity:**  
 - Filters for **Year**, **Country**, **Disease**, and **Antigen**  
-- Cross-highlighting between visuals  
-
-**Dashboard Preview:**  
-![Page 1 Dashboard](page 1 powerbi.jpg)  
+- Cross-highlighting between visuals
+- 
 *Identifies where vaccination drop-offs occur and tracks booster adoption trends.*
 
 ---
@@ -52,9 +50,7 @@ To compare vaccine coverage against disease incidence and visualize global disea
 **Interactivity:**  
 - Filters for **Year**, **Country**, **Disease**, and **Antigen**  
 - Tooltips on map and scatter bubbles  
-
-**Dashboard Preview:**  
-![Page 2 Dashboard](page 2 powerbi.jpg)  
+ 
 *Shows correlation between vaccination coverage and disease incidence, plus global case distribution.*
 
 ---
